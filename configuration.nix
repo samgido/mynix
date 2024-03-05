@@ -89,6 +89,7 @@
       git
       steam
       gh
+      git-credential-manager
     ];
   };
 
